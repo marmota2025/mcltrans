@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Disallow access to specific files
+Disallow: /.htaccess
+Disallow: /README.md
+
+# Sitemap location
+Sitemap: https://mcltrans.be/sitemap.xml

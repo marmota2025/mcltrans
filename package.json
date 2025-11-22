@@ -1,0 +1,20 @@
+{
+  "name": "mcltrans-website",
+  "version": "1.0.0",
+  "description": "Site web professionnel pour MCL TRANS SRL",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "npx http-server -p 8000 -o"
+  },
+  "keywords": [
+    "transport",
+    "logistics",
+    "website",
+    "belgium",
+    "mcl-trans"
+  ],
+  "author": "MCL TRANS SRL",
+  "license": "UNLICENSED",
+  "private": true
+}
