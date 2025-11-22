@@ -172,7 +172,7 @@ a:hover {
 }
 
 .nav-brand .logo {
-    height: 25px;
+    height: 40px;
     width: auto;
     object-fit: contain;
     transition: transform var(--transition-base);
@@ -805,7 +805,7 @@ a:hover {
 }
 
 .footer-logo {
-    height: 80px;
+    height: 60px;
     width: auto;
     object-fit: contain;
     margin-bottom: var(--spacing-md);
@@ -930,7 +930,7 @@ a:hover {
     }
     
     .nav-brand .logo {
-        height: 40px;
+        height: 35px;
     }
     
     .nav-menu {
